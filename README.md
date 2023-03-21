@@ -1,7 +1,5 @@
 <h1 align="center">Hello World!👋, I'm Mac Arriero</h1>
-<h3 align="center">A Computer Science student 👨‍💻 at RMIT University</h3>
-
-
+<h3 align="center">A Computer Science graduate 👨‍💻 from RMIT University</h3>
 
 - 🌎 I'm based in Melbourne, Australia
 - 🧠 I'm currently learning Artificial Intelligence and React Development
